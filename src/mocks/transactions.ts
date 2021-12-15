@@ -1,0 +1,42 @@
+export const transitions = [
+  {
+    id: 1,
+    title: "Conta de Luz",
+    amount: 400,
+    type: "income",
+    category: "Casa",
+    createdAt: new Date(),
+  },
+  {
+    id: 2,
+    title: "Conta de Luz",
+    amount: 400,
+    type: "income",
+    category: "Casa",
+    createdAt: new Date(),
+  },
+  {
+    id: 3,
+    title: "Conta de Luz",
+    amount: 400,
+    type: "income",
+    category: "Casa",
+    createdAt: new Date(),
+  },
+  {
+    id: 4,
+    title: "Conta de Luz",
+    amount: 400,
+    type: "income",
+    category: "Casa",
+    createdAt: new Date(),
+  },
+  {
+    id: 5,
+    title: "Conta de Luz",
+    amount: 400,
+    type: "income",
+    category: "Casa",
+    createdAt: new Date(),
+  },
+];
